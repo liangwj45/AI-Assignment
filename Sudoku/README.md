@@ -61,8 +61,8 @@ make
 | ---------------------------------- | --------- | ------------ |
 | Exhaustive Search                  | \>3545.72 | \>50,000,000 |
 | Backtracking Search                | 0.1319    | 4080         |
-| Forward Checking                   | 0.1326    | 85           |
-| Minimum Remaining Values (with FC) | 0.0927    | 5            |
+| Forward Checking                   | 0.0974    | 85           |
+| Minimum Remaining Values (with FC) | 0.0514    | 5            |
 
 - **case5**：
 
